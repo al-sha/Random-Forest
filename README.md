@@ -1,2 +1,2 @@
 # Random-Forest-Classifier
-A Random Forest model to predict if a student is accepted based on number of features
+A Random Forest model that predicts if a student is accepted to a specific program based on number of features
